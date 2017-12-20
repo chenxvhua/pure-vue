@@ -1,0 +1,32 @@
+b,
+em,
+i,
+span,
+small,
+strong,
+body,
+html,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dl,
+dt,
+dd,
+iframe,
+form,
+ol,
+ul,
+li,
+img,
+div,
+label,
+p {
+  margin: 0;
+  padding: 0;
+  font-family:Arial,"Microsoft Yahei","Lantinghei SC","Open Sans","Hiragino Sans GB",STHeiti,"WenQuanYi Micro Hei",SimSun,sans-serif;
+}
+
+
